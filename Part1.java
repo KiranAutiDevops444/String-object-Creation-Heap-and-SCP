@@ -8,4 +8,10 @@ class Part1{
         System.out.println(s2);
 
     }
+
 }
+/*
+Output:
+Spring
+SpringWinter
+*/
