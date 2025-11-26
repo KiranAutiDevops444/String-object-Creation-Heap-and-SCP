@@ -22,3 +22,16 @@ class Substring{
 
     }
 }
+
+/*
+output:
+
+Enter String:
+Institute
+Enter start:
+3
+Enter end:
+8
+User program finished
+ titut
+*/
