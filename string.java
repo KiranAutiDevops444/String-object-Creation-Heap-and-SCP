@@ -14,3 +14,11 @@ class string{
 
     }
 }
+
+/*
+output:
+false
+false
+false
+false
+*/
